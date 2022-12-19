@@ -6,6 +6,7 @@ Let's take a crack at it anyways, and see where it might lead. The remainder of 
 
 1. [Bootstrapping](docs/01.%20Bootstrap.md)
 2. [Server Options](docs/02.%20Server%20Options.md)
+3. [System Verbs](docs/03.%20System%20Verbs.md)
 
 [LambdaMOO-1.8.1.tar.gz](http://ftp.lambda.moo.mud.org/pub/MOO/LambdaMOO-1.8.1.tar.gz)  
 [LambdaCore-latest.db](http://ftp.lambda.moo.mud.org/pub/MOO/LambdaCore-latest.db)  
