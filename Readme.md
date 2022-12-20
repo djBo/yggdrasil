@@ -7,6 +7,8 @@ Let's take a crack at it anyways, and see where it might lead. The remainder of 
 1. [Bootstrapping](docs/01.%20Bootstrap.md)
 2. [Server Options](docs/02.%20Server%20Options.md)
 3. [System Verbs](docs/03.%20System%20Verbs.md)
+4. [Built-in Functions](docs/04.%20Built-in%20Functions.md)
+5. [Generic API and Model](docs/05.%20Generic%20API%20and%20Model.md)
 
 [LambdaMOO-1.8.1.tar.gz](http://ftp.lambda.moo.mud.org/pub/MOO/LambdaMOO-1.8.1.tar.gz)  
 [LambdaCore-latest.db](http://ftp.lambda.moo.mud.org/pub/MOO/LambdaCore-latest.db)  
